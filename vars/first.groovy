@@ -1,3 +1,3 @@
-def call(){
-  sh 'echo this is gk'
+def call(name){
+  sh 'echo this is $(name)'
 }
