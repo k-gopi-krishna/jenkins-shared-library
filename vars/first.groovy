@@ -1,3 +1,3 @@
-def wish(name){
-  sh 'echo this is $(name)'
+def wish(){
+  sh 'echo this is gk'
 }
